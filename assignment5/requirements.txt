@@ -1,8 +1,0 @@
-altair==4.*
-altair-viewer
-fastapi[all]
-pandas
-pytest
-requests
-requests-cache
-uvicorn
