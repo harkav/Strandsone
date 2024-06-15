@@ -1,0 +1,2 @@
+# Strandsone
+repo for strandsoneprosjektet
